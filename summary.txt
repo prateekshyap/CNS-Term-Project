@@ -1,0 +1,54 @@
+2459154.pdf
+===========
+A survey on Security-Aware Measurement in SDN
+---------------------------------------------
+
+Types of challenges in security ->
+1. Hardware based challenges
+
+Types of attacks possible for controllers ->
+Controller might be the primary choice for attackers
+DDoS attack for controllers
+forging a controller
+
+Types of attacks possible for switches ->
+link cutting for switches
+
+2. Protocol based challenges
+man-in-the-middle attack due to optional mutual authentication
+compromised third party applications in a controller
+
+(Performance measurement and Topology measurement)
+
+Future work-->
+-> Difficulty in detecting network threats due to presence of multiple controllers
+-> Analyzing achieved metrics and matching pre-set threshold
+-> Balancing resources and performance
+
+
+
+Sdn_Security_A_Survey.pdf
+=========================
+SDN Security: A Survey
+----------------------
+
+SDN Middlebox for security
+Security Challenges
+
+
+
+a_survey_of_sdn_security_research.pdf
+=====================================
+A Survey of SDN Security Research
+---------------------------------
+
+Openflow security
+
+
+A_Survey_Typical_security_issues_of_software-defined_networking.pdf
+===================================================================
+A Survey: Typical Security Issues of Software-Defined Networking
+----------------------------------------------------------------
+
+
+
