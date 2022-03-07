@@ -11,3 +11,8 @@ Sections - <br>
 3. Network anomaly detection functions
 4. Advanced security functions
 
+## \[20\]\_IDS_IPS_SDN_Security_Survey_A_Study_on_SDN_security_enhancement_using_open_source_IDS_IPS_Suricata
+Sections - <br>
+1. Firewall
+2. Network Scan
+3. Abnormal Traffic
