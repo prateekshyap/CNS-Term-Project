@@ -1,13 +1,12 @@
 
 **SURVEYS**
 # VP
-[11]_Security_Mechanisms_Survey_10.1.1.735.2436 
+## \[11]\_Security_Mechanisms_Survey_10.1.1.735.2436 
 Areas - DDos Attacks, Security Mechanism, static environment
  
-[19]_Security_Trends_Survey_A_recent_trends_in_software_defined_networking_SDN_security
+## \[19]\_Security_Trends_Survey_A_recent_trends_in_software_defined_networking_SDN_security
 Areas- About SDN Basics,Security research
-## \[11\]\_Security_Mechanisms_Survey_10.1.1.735.2436
-Sections - <br>
+
 
 # PP
 
