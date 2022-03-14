@@ -71,7 +71,7 @@ Regarding Solutions
 =======================================================================================
 
 DDos Attack
-------------------
+-----------
 
 ## \[5\]\_Ensemble_Model_DDos_Attack_1-s2.0-S0141933121005585-main.pdf
 
@@ -123,7 +123,30 @@ Decision Tree
 Logistic Regression
 
 
-FIREWALL
-===================================================================================
+Firewall
+--------
 
-[22]_Firewall_Enhanced_SDN_security_using_firewall_in_a_distributed_scenario.pdf
+## \[22\]\_Firewall_Enhanced_SDN_security_using_firewall_in_a_distributed_scenario.pdf
+
+About SDN
+
+Problems-
+List of SDN Security vulnerabilities in three plane
+
+Solution-
+Design Model of Firefall
+Algorithm Description
+
+IoT
+---
+
+## \[18\]\_IoT_A_Multi-Task_Learning-based_Network_Traffic_Prediction_Approach_for_SDN-enabled_Industrial_Internet_of_Things.pdf
+
+Algorithm based on multi task learning to predict network traffic
+
+Problems-
+End to End Network Traffic
+
+Solution-
+Network Traffic Prediction Based on DL (CNN and LSTM)
+Network Traffic Prediction Based on Multi-Task Learning
