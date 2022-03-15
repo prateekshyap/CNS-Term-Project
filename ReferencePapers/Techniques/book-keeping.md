@@ -67,6 +67,15 @@ Attacks on control level communication and data transfer
 Listening attacks
 
 
+## \[15\]\_Cloud_3159450.3159514.pdf
+
+Details about some of the attacks
+Data-to-control Plane Saturation Attacks to the SDN Controller
+Flooding Attacks to the SDN Data Plane
+API Misuse Attacks to the SDN Controller
+Man-in-the-middle Attacks in the SDN Data Plane
+Topology Poisoning Attacks to the SDN Controller
+
 Regarding Solutions
 =======================================================================================
 
