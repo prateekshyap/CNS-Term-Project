@@ -144,3 +144,19 @@ Network Traffic Prediction Based on DL (CNN and LSTM)
 Network Traffic Prediction Based on Multi-Task Learning
 
 
+Blockchain
+----------
+
+## \[10\]\_Blockchain_Northbound_Interface_paper.pdf
+
+Blockchain based framework to protect the northbound interface
+
+Performs decentralized access control for each request
+
+Consensus part is the main reason why hackers cannot attack
+
+6 problems defined
+
+AAA scheme
+
+Workflow of B-DAC for processing a request sample
