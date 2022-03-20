@@ -74,4 +74,28 @@ Attack pattern prediction using ML techniques
 
 ## 24
 
-Evaluation of ML techniques for 
+Evaluation of ML techniques for SDN security
+
+
+Firewall
+--------
+
+## 22
+
+Using firewall for SDN security
+
+
+IoT
+---
+
+## 18
+
+Network traffic prediction (redundant)
+
+
+Blockchain
+----------
+
+## 10
+
+Using blockchain for security
