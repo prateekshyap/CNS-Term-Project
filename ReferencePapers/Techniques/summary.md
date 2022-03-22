@@ -57,14 +57,14 @@ Side channel attacks
 (By using side channel attacks, an attacker can infer network-related state information (such as flow table information) by testing the execution time of the specific type of data packet. Therefore, the flow table may cause data leakage problems. Although side channel attacks do not directly affect the availability, confidentiality or integrity of data, they can trigger further attack)
 
 
-## 25
+<!-- ## 25
 
 DDoS Attacks
 Controller Compromise
 Thrid-Party Add-ons
 Attacks on control level communication and data transfer
 Listening attacks
-
+ -->
 
 # Solutions
 
@@ -74,24 +74,35 @@ Preventing DDos Attacks
 ## 5
 
 ensemble model technique, classifiers
+(Voting ensemble model
+
+Employs six base classifiers i.e. two SVMs, two Random Forests, two Gradient Boosted Machines that are differentiated by hyperparameter values
+
+Optimal set of weights are identified by a novel hybrid metaheuristic optimization algorithm (BHO)
+
+Learning phase is important. Detection and mitigation phase is smaller.
+
+Five steps in the algorithm. Uses a combination of two other algorithms.
+
+Metaheuristic technique is used.)
 
 
 ## 6
 
 entropy technique followed by ML
+(Detection using an initial module based on information entropy
+Then using machine learning with a stacked sparse auto encoder)
 
 
 ## 3
 
 DDoS attack mitigation using DNN
+(Mitigation using DNN algo -> Parallel Online Deep Learning Algorithm)
 
 
-14 another entropy based approach (redundant)
+<!-- ## 21
 
-
-## 21
-
-Various other mitigation techniques
+Various other mitigation techniques -->
 
 
 ML based techniques
@@ -100,25 +111,53 @@ ML based techniques
 ## 28
 
 Attack pattern prediction using ML techniques
+(Firewall services are deployed as VNFs(Virtualized Network Functions)
+
+Prediction of Attack Patterns using ML techniques like Bayesian Network, Native-Bayes, C4.5 Algorithm, Decision Tree)
 
 
 ## 24
 
 Evaluation of ML techniques for SDN security
+(Evaluation of techniques like
+SVM
+Naive Bayes
+Decision Tree
+Logistic Regression
+for SDN security)
 
 
-Firewall
---------
+
+Firewall based techniques
+-------------------------
 
 ## 22
 
 Using firewall for SDN security
+(About SDN
+
+Problems-
+List of SDN Security vulnerabilities in three plane
+
+Solution-
+Design Model of Firefall
+Algorithm Description)
 
 
-
-Blockchain
-----------
+Blockchain based techniques
+---------------------------
 
 ## 10
 
 Using blockchain for security
+(Blockchain based framework to protect the northbound interface
+
+Performs decentralized access control for each request
+
+Consensus part is the main reason why hackers cannot attack
+
+6 problems defined
+
+AAA scheme
+
+Workflow of B-DAC for processing a request sample)
