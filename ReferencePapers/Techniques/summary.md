@@ -1,7 +1,6 @@
 (Northbound interface - connects to applications, Southbound interface - connects to switches, East and West bound interface - across the control layer)
 
 # Attacks
-
 ## 11
 
 Attacks listed-
